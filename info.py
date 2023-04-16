@@ -1,0 +1,1 @@
+aboutME = "Hi there! My name is Josuan and I am the sole creator of this website, I created this website as a personal project and for practice, and I hope you find it useful and enjoyable to use. Thank you for visiting."
