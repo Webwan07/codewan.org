@@ -1,0 +1,4 @@
+﻿streamlit<0.89.0
+pickle<4.0
+streamlit_option_menu<1.0.0
+pyperclip<1.8.2
